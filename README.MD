@@ -9,3 +9,7 @@
 ## 環境設定ファイル
 
 [express で設定ファイルを読み込む（＋環境毎に切り替える）](https://qiita.com/zaburo/items/e0061e31f4f4a1e66949)
+
+## マイグレーション
+
+[Node.js を使った Migration 機能を使ってみた](https://qiita.com/TakagiToru/items/61600235a9552daa5c28)

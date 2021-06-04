@@ -13,3 +13,7 @@
 ## マイグレーション
 
 [Node.js を使った Migration 機能を使ってみた](https://qiita.com/TakagiToru/items/61600235a9552daa5c28)
+
+## 注意
+
+www ファイルにて 3000 ポートでなく 3001 ポートを利用していることに注意。案件の都合。
